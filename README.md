@@ -1,2 +1,2 @@
 # ikev1
-aggresive and main mode
+dictionary attacks against ikev1 aggresive and main mode
